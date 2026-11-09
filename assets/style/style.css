@@ -1191,15 +1191,6 @@ footer{
   }
 }
 
-/* Mobile Large */
-@media (max-width: 768px){
-  .camera-img{
-    top: 150px;
-    width: 130px;
-    transform: translateX(-500px);
-  }
-}
-
 /* Mobile Small */
 @media (max-width: 480px){
   .camera-img{
